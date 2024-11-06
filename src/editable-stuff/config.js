@@ -34,7 +34,7 @@ const about = {
   imageLink: require("../editable-stuff/tracey.png"),
   imageSize: 375,
   message:
-    "Hello! This is Tracey Li, a medical student specializing in neurology. I graduated from Zhejiang University in 2022 and continued to be a resident doctor in the hospital. Being both an Idealist, I am always wondering about three questions: What is the nature of the universe? &What's the meaning of life? &What is my mission for my existence. If you are also engaged by these questions, contact me anytime. To find out the answer, I am currently actively seeking position for diving into the research of Brain Computer Interface(BCI) or related research. If you have any opportunity, don't hesitate to discuss with me!",
+    "Hello! This is Tracey Li, a medical student specializing in neurology. I graduated from Zhejiang University in 2022 and continued to be a resident doctor in The Second Affiliated Hospital of Zhejiang University School of Medicine. Being an Idealist, I am always wondering about three questions: What is the nature of the universe? &What's the meaning of life? &What is my mission for my existence. If you are also engaged by these questions, contact me anytime. To find out the answer, I am currently actively seeking position for diving into the research of Brain Computer Interface(BCI) or related research. If you have any opportunity, don't hesitate to discuss with me!",
   resume: "https://docs.google.com/document/d/1vRD3T_G47xF_XjrrLYSIYME44AbauRAH0duasscnh1s/edit?usp=sharing",
 };
 
@@ -81,36 +81,7 @@ const leadership = {
 
 const workingExperience = {
   show: true,
-  heading: "Working Experience",
-  message1: "I have been a resident doctor in The Second Affiliated Hospital of Zhejiang University School of Medicine. Rotating in the following departments has shaped who I am today.",
-  image1: {
-    src: require("../editable-stuff/pic1.png"),
-    description: "A sculpture of a doctor and a kid patient bowing and paying tribute to each other at the entrance of the Second Hospital of Zhejiang University."
-  },
-  image2: {
-    src: require("../editable-stuff/pic2.png"),
-    description: "My friends and I from Dr.Chen's team. I still reminiscenced about the extremely harmonious atmosphere of cooperation."
-  },
-  image3: {
-    src: require("../editable-stuff/pic3.png"),
-    description: "Sanger sequencing confirmed the point mutation of the HTRA1 gene in the patient."
-  },
-  image4: {
-    src: require("../editable-stuff/pic4.png"),
-    description: "Being an assistant to Director Ling's transnasal endoscopic pituitary tumor resection surgery, Dr. Gao provided guidance beside me."
-  },
-  image5: {
-    src: require("../editable-stuff/pic5.png"),
-    description: "My friends (the resident doctors) and I in the group celebrated Dr. Yu's birthday."
-  },
-  message2: "There is a saying that \"neurology is the king of internal medicine\" in China. YEP! As a big fan of neurology,  I have witnessed its charm here.",
-  message3: "\"A young man with dance-like movements of the left limb\"-Cerebral infarction involving the right caudate nucleus. “Sudden tinnitus on the right side, with the sound disappearing when pressing on the right side of the neck\"-right intracranial venous sinus stenosis. \"A patient with cerebellar infarction complain of headache and vomitting?”-edema in the infarction of cerebellum compresses the fourth ventricle, leading to intracranial hypertension. These are all the cases I have handled in this department. With the direction of Dr.Zhang, Dr.Chen and Dr.Ouyang, some mysterious puzzles on patients have been solved.",
-  message4: "My life in neurology involves managing patients undergoing cerebrovascular intervention surgeries, taking care of stroke patients, and handling patients with Parkinson's syndrome and other neurology-related disorders. In this department, one of my major highlight moments was when I independently figured out the cause for a patent who was griping about dizziness and memory decline. His suspected positive family history and white matter lesions shown on MRI grabbed my attention. We did genetic testing on him and found a mutation in the HTRA1 gene(as shown in the picture). He was finally diagnosed as CADASIL(Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy)and received the antiplatelet therapy.",
-  message5: "Neurosurgery is definitely the most wonderful department for me cuz I am super curious about craniotomy. Fortunately, I have had the privilege of being the first surgical assistant multiple times, participating in acoustic neuroma resection, glioma resection, V-P shunt surgery, and transnasal endoscopic pituitary tumor resection. I am grateful to Dr.Gao and Dr.Dong for their caring in my daily work. I also wanna express my gratitude for Dr.Yan and Dr.Ling for what they have taught me in the surgery room.",
-  message6: "In the ward, I have taken over several cases of idiopathic normal intracranial pressure hydrocephalus(iNPH), which is an essential differential diagnosis of Parkinson’s syndrome. Connecting cases from neurology and neurosurgery allows me to apprehend the enchantment of medicine.",
-  message7: "When I came here—— the first rare disease ward in China, I clearly remember various varieties of disease types listed on the computer. Wilson’s disease, Huntington’s disease, Spinal Muscular Atrophy, SpinocerebellarAataxia, Amyotrophic lateral sclerosis...I didn’t even knew some of the names, but when I finished my rotation here, I could make preliminary diagnoses for the vast majority of diseases.",
-  message8: "Sure, it’s all credit to my superior doctors, director Wu, attending doctors (Dr. Liu&Dr.Ni&Dr.Dong) and fellow doctors(Dr.Yu), who have helped me and taught me soooo much in my daily work! Thanks to Dr.Liu and Dr.Yang, I Learned to perform various special staining and observation on muscle specimens(which were extracted from patients’ biceps brachii), as well as extract and cultivate fibroblasts from human skin specimens.",
-  message9: "As one of the most busy places in the hospital, it’s also a locale that can immensely temper the clinical skills of young physicians. Within 2 months, I have learned the initial diagnosis and treatment of a lot diseases such as STEMI, Paroxysmal supraventricular tachycardia, Hypokalemic periodic paralysis and so on. With the great honor to serve as a temporary guidance resident physician for international students, I am passionate about chatting with medicine students from German, Sri Lanka and India. Meanwhile, I also gained some soft skills such as communication, scheduling and teamwork, which laid a solid foundation for my working in other departments."
+  heading: "Working Experience"
 }
 
 const researchProjects = {
@@ -160,8 +131,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for 2025 Fall PhD or research assistant opportunities in Biomedical Engineering! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "317010429@zju.edu.cn",
+    "I'm currently looking for 2025 Fall PhD or research assistant opportunities in Biomedical Engineering&Biomedicine! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "traceyli@zju.edu.cn",
 };
 
 const experiences = {

@@ -35,7 +35,7 @@ const about = {
   imageSize: 375,
   message:
     "Hello! This is Tracey Li, a medical student specializing in neurology. I graduated from Zhejiang University in 2022 and continued to be a resident doctor in The Second Affiliated Hospital of Zhejiang University School of Medicine. Being an Idealist, I am always wondering about three questions: What is the nature of the universe? &What's the meaning of life? &What is my mission for my existence. If you are also engaged by these questions, contact me anytime. To find out the answer, I am currently actively seeking position for diving into the research of Brain Computer Interface(BCI) or related research. If you have any opportunity, don't hesitate to discuss with me!",
-  resume: "https://w.afbcs.cn/XnMUkV",
+  resume: "https://www.dropbox.com/scl/fi/enwq80dz7c68amr61ranz/Tracey-s-CV.pdf?rlkey=o8miwyg4996if3apjtfd65geu&st=4ndgzmc7&dl=0",
 };
 
 // PROJECTS SECTION

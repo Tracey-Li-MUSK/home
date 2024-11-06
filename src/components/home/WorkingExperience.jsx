@@ -104,7 +104,7 @@ const WorkingExperience = ({ heading }) => {
         </div>
       </div>
       <div className="row justify-content-center"><p className="lead text-left col-10">{"Sure, it's all credit to my superior doctors, director Wu, attending doctors (Dr. Liu&Dr.Ni&Dr.Dong) and fellow doctors(Dr.Yu), who have helped me and taught me soooo much in my daily work! Thanks to Dr.Liu and Dr.Yang, I Learned to perform various special staining and observation on muscle specimens(which were extracted from patients' biceps brachii), as well as extract and cultivate fibroblasts from human skin specimens."}</p></div>
-      <div className="row justify-content-center"><p className="lead text-left col-10">{"Here are some popular science articles on the official account during my rotation:"}</p></div>
+      <div className="row justify-content-center"><p className="lead text-left col-10">{"Here are some popular science articles I wrote on the official account during my rotation:"}</p></div>
       <div className="row justify-content-center">
         <p className="lead text-left col-10">
           <ul>

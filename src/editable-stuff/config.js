@@ -34,7 +34,7 @@ const about = {
   imageLink: require("../editable-stuff/tracey.png"),
   imageSize: 375,
   message:
-    "Hello! This is Tracey Li, a medical student specializing in neurology. I graduated from Zhejiang University in 2022 and continued to be a resident doctor in The Second Affiliated Hospital of Zhejiang University School of Medicine. Being an Idealist, I am always wondering about three questions: What is the nature of the universe? &What's the meaning of life? &What is my mission for my existence. If you are also engaged by these questions, contact me anytime. To find out the answer, I am currently actively seeking position for diving into the research of Brain Computer Interface(BCI) or related research. If you have any opportunity, don't hesitate to discuss with me!",
+    "Hello! This is Tracey Li, a medical student specializing in neurology. I graduated from Zhejiang University in 2022 and continued to be a resident doctor in The Second Affiliated Hospital of Zhejiang University School of Medicine. Being an Idealist, I am always wondering about three questions: What is the nature of the universe? &What's the meaning of life? &What is my mission for my existence. If you are also engaged by these questions, contact me anytime. To find out the answer, I become a BME student in Carnegie Mellon University and I am looking for opportunities to start my entrepreneurial journey!",
   resume: "https://www.dropbox.com/scl/fi/enwq80dz7c68amr61ranz/Tracey-s-CV.pdf?rlkey=o8miwyg4996if3apjtfd65geu&st=4ndgzmc7&dl=0",
 };
 
@@ -131,7 +131,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for 2025 Fall PhD or research assistant opportunities in Biomedical Engineering&Biomedicine! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "traceyli@zju.edu.cn",
 };
 
